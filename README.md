@@ -6,10 +6,10 @@ Base from which other examples are created. Simple viewer that plays the test so
 Checking out:
 -------------
 TortoiseGit:
-Right-click in Explorer and select "Git Clone". Enter the URL https://github.com/vidview/Example.VidhanceOnOff.git
+Right-click in Explorer and select "Git Clone". Enter the URL https://github.com/vidview/Example.PanZoomRotate.git
 
 TortoiseSVN:
-Right-click in Explorer and select "SVN Checkout". Enter the URL https://github.com/vidview/Example.VidhanceOnOff.git/trunk
+Right-click in Explorer and select "SVN Checkout". Enter the URL https://github.com/vidview/Example.PanZoomRotate.git/trunk
 
 Getting started (Visual Studio 2012 Express):
 -------------------------------------
