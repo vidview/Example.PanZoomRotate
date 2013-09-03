@@ -1,7 +1,7 @@
 ﻿using System;
 using Forms = System.Windows.Forms;
 
-namespace Example.VidhanceOnOff.Extension
+namespace Example.PanZoomRotate.Extension
 {
 	public static class ControlExtension
 	{

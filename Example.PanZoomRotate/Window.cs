@@ -10,7 +10,7 @@ using System.Windows.Forms;
 using Vidhance = Imint.Vidhance;
 using IVidview = Imint.Vidview.IVidview;
 
-namespace Example.VidhanceOnOff
+namespace Example.PanZoomRotate
 {
 	public partial class Window : Form
 	{

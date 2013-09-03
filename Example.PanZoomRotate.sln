@@ -10,7 +10,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{509BAE
 		.nuget\NuGet.targets = .nuget\NuGet.targets
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example.VidhanceOnOff", "Example.VidhanceOnOff\Example.VidhanceOnOff.csproj", "{0C09C114-4A11-4C5C-AB64-B079915EFC79}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example.PanZoomRotate", "Example.PanZoomRotate\Example.PanZoomRotate.csproj", "{0C09C114-4A11-4C5C-AB64-B079915EFC79}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
