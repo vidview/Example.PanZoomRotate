@@ -17,7 +17,7 @@ Getting started (Visual Studio 2012 Express):
 2. Make sure the NuGet extension is up to date (Tools -> Extensions and updates).
 3. Right click the solution in the Solution Explorer and select "Enable NuGet Package Restore".
 4. Exit Visual Studio.
-5. Run "addsource.bat" in the .nuget. This will prompt you for your MyGet username and password.
+5. Run "addsource.bat" in the .nuget folder. This will prompt you for your MyGet username and password.
 6. If the build fails later on, you may have provided the wrong credentials earlier, in which case go back to step 5.
 7. Open the solution file again and build. The packages will automatically be installed, as part of the build process.
 8. Run the application.
