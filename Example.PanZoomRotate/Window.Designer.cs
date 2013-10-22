@@ -46,7 +46,7 @@
 			this.ClientSize = new System.Drawing.Size(784, 562);
 			this.Controls.Add(this.viewer);
 			this.Name = "Window";
-			this.Text = "Vidview Example Getting Started";
+			this.Text = "Vidview Example PanZoomRotate";
 			this.ResumeLayout(false);
 
 		}
