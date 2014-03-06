@@ -1,5 +1,5 @@
 using System;
-using Kean.Core.Extension;
+using Kean.Extension;
 using Forms = System.Windows.Forms;
 using Settings = Kean.Platform.Settings;
 using Vidhance = Imint.Vidhance;

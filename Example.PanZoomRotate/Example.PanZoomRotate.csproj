@@ -34,196 +34,115 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="Attraction.Core.Serializing">
-      <HintPath>..\packages\Attraction.Core.Serializing.0.5.0.1387\lib\net40\Attraction.Core.Serializing.dll</HintPath>
+    <Reference Include="Attraction.Core.Serializing, Version=2.9.2.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\packages\Attraction.Core.Serializing.2.9.2-CI00009\lib\net40\Attraction.Core.Serializing.dll</HintPath>
     </Reference>
-    <Reference Include="Attraction.Draw.OpenGL">
-      <HintPath>..\packages\Attraction.Draw.OpenGL.0.5.0.1387\lib\net40\Attraction.Draw.OpenGL.dll</HintPath>
+    <Reference Include="Attraction.Draw.OpenGL, Version=2.9.2.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\packages\Attraction.Draw.OpenGL.2.9.2-CI00009\lib\net40\Attraction.Draw.OpenGL.dll</HintPath>
     </Reference>
-    <Reference Include="Attraction.Svg.Cairo">
-      <HintPath>..\packages\Attraction.Svg.Cairo.0.5.0.1387\lib\net40\Attraction.Svg.Cairo.dll</HintPath>
+    <Reference Include="Attraction.Svg.Cairo, Version=2.9.2.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\packages\Attraction.Svg.Cairo.2.9.2-CI00009\lib\net40\Attraction.Svg.Cairo.dll</HintPath>
     </Reference>
-    <Reference Include="Attraction.Svg.Modifier">
-      <HintPath>..\packages\Attraction.Svg.Modifier.0.5.0.1387\lib\net40\Attraction.Svg.Modifier.dll</HintPath>
+    <Reference Include="Attraction.Svg.Modifier, Version=2.9.2.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\packages\Attraction.Svg.Modifier.2.9.2-CI00009\lib\net40\Attraction.Svg.Modifier.dll</HintPath>
     </Reference>
-    <Reference Include="Attraction.Svg.Svg">
-      <HintPath>..\packages\Attraction.Svg.Svg.0.5.0.1387\lib\net40\Attraction.Svg.Svg.dll</HintPath>
+    <Reference Include="Attraction.Svg.Svg, Version=2.9.2.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\packages\Attraction.Svg.Svg.2.9.2-CI00009\lib\net40\Attraction.Svg.Svg.dll</HintPath>
     </Reference>
     <Reference Include="glib-sharp, Version=2.12.0.0, Culture=neutral, PublicKeyToken=35e10195dab3c99f">
       <Private>True</Private>
       <HintPath>..\packages\GLib.Sharp.2.28.1.1\lib\glib-sharp.dll</HintPath>
     </Reference>
-    <Reference Include="Imint.Geo">
-      <HintPath>..\packages\Imint.Geo.2.8.0.3741\lib\net40\Imint.Geo.dll</HintPath>
+    <Reference Include="Imint.Icop, Version=2.9.2.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\packages\Imint.Icop.2.9.2-CI00009\lib\net40\Imint.Icop.dll</HintPath>
     </Reference>
-    <Reference Include="Imint.Geo.Module">
-      <HintPath>..\packages\Imint.Geo.Module.2.8.0.3741\lib\net40\Imint.Geo.Module.dll</HintPath>
+    <Reference Include="Imint.Icop.Client, Version=2.9.2.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\packages\Imint.Icop.Client.2.9.2-CI00009\lib\net40\Imint.Icop.Client.dll</HintPath>
     </Reference>
-    <Reference Include="Imint.Icop">
-      <HintPath>..\packages\Imint.Icop.0.1.0.76\lib\net40\Imint.Icop.dll</HintPath>
+    <Reference Include="Imint.Media, Version=2.9.2.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\packages\Imint.Media.2.9.2-CI00009\lib\net40\Imint.Media.dll</HintPath>
     </Reference>
-    <Reference Include="Imint.Icop.Client">
-      <HintPath>..\packages\Imint.Icop.Client.0.1.0.76\lib\net40\Imint.Icop.Client.dll</HintPath>
+    <Reference Include="Imint.Media.Input, Version=2.9.2.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\packages\Imint.Media.Input.2.9.2-CI00009\lib\net40\Imint.Media.Input.dll</HintPath>
     </Reference>
-    <Reference Include="Imint.Improc.Match">
-      <HintPath>..\packages\Imint.Improc.Match.2.8.0.3741\lib\net40\Imint.Improc.Match.dll</HintPath>
+    <Reference Include="Imint.Media.Test, Version=2.9.2.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\packages\Imint.Media.Test.2.9.2-CI00009\lib\net40\Imint.Media.Test.dll</HintPath>
     </Reference>
-    <Reference Include="Imint.Improc.Match.Feature">
-      <HintPath>..\packages\Imint.Improc.Match.Feature.2.8.0.3741\lib\net40\Imint.Improc.Match.Feature.dll</HintPath>
+    <Reference Include="Imint.Vidflow, Version=2.9.2.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\packages\Imint.Vidflow.2.9.2-CI00009\lib\net40\Imint.Vidflow.dll</HintPath>
     </Reference>
-    <Reference Include="Imint.Improc.Utility">
-      <HintPath>..\packages\Imint.Improc.Utility.2.8.0.3741\lib\net40\Imint.Improc.Utility.dll</HintPath>
+    <Reference Include="Imint.Vidflow.Advanced, Version=2.9.2.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\packages\Imint.Vidflow.Advanced.2.9.2-CI00009\lib\net40\Imint.Vidflow.Advanced.dll</HintPath>
     </Reference>
-    <Reference Include="Imint.Media">
-      <HintPath>..\packages\Imint.Media.2.8.0.42\lib\net40\Imint.Media.dll</HintPath>
+    <Reference Include="Imint.Vidflow.Graph, Version=2.9.2.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\packages\Imint.Vidflow.Graph.2.9.2-CI00009\lib\net40\Imint.Vidflow.Graph.dll</HintPath>
     </Reference>
-    <Reference Include="Imint.Media.Input">
-      <HintPath>..\packages\Imint.Media.Input.2.8.0.42\lib\net40\Imint.Media.Input.dll</HintPath>
+    <Reference Include="Imint.Vidflow.Snapshot, Version=2.9.2.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\packages\Imint.Vidflow.Snapshot.2.9.2-CI00009\lib\net40\Imint.Vidflow.Snapshot.dll</HintPath>
     </Reference>
-    <Reference Include="Imint.Media.Test">
-      <HintPath>..\packages\Imint.Media.Test.2.8.0.24\lib\net40\Imint.Media.Test.dll</HintPath>
+    <Reference Include="Imint.Vidhance, Version=2.9.2.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\packages\Imint.Vidhance.2.9.2-CI00009\lib\net40\Imint.Vidhance.dll</HintPath>
     </Reference>
-    <Reference Include="Imint.Vidflow">
-      <HintPath>..\packages\Imint.Vidflow.2.8.0.3741\lib\net40\Imint.Vidflow.dll</HintPath>
+    <Reference Include="Imint.Vidhance.Contrast, Version=2.9.2.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\packages\Imint.Vidhance.Contrast.2.9.2-CI00009\lib\net40\Imint.Vidhance.Contrast.dll</HintPath>
     </Reference>
-    <Reference Include="Imint.Vidflow.Advanced">
-      <HintPath>..\packages\Imint.Vidflow.Advanced.2.8.0.3741\lib\net40\Imint.Vidflow.Advanced.dll</HintPath>
+    <Reference Include="Imint.Vidhance.Motion, Version=2.9.2.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\packages\Imint.Vidhance.Motion.2.9.2-CI00009\lib\net40\Imint.Vidhance.Motion.dll</HintPath>
     </Reference>
-    <Reference Include="Imint.Vidflow.Graph">
-      <HintPath>..\packages\Imint.Vidflow.Graph.2.8.0.3741\lib\net40\Imint.Vidflow.Graph.dll</HintPath>
+    <Reference Include="Imint.Vidhance.Motion.Stabilize, Version=2.9.2.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\packages\Imint.Vidhance.Motion.Stabilize.2.9.2-CI00009\lib\net40\Imint.Vidhance.Motion.Stabilize.dll</HintPath>
     </Reference>
-    <Reference Include="Imint.Vidflow.Snapshot">
-      <HintPath>..\packages\Imint.Vidflow.Snapshot.2.8.0.3741\lib\net40\Imint.Vidflow.Snapshot.dll</HintPath>
+    <Reference Include="Imint.Vidview, Version=2.9.2.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\packages\Imint.Vidview.2.9.2-CI00009\lib\net40\Imint.Vidview.dll</HintPath>
     </Reference>
-    <Reference Include="Imint.Vidhance">
-      <HintPath>..\packages\Imint.Vidhance.2.8.0.3741\lib\net40\Imint.Vidhance.dll</HintPath>
+    <Reference Include="Imint.Viewer, Version=2.9.2.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\packages\Imint.Viewer.2.9.2-CI00009\lib\net40\Imint.Viewer.dll</HintPath>
     </Reference>
-    <Reference Include="Imint.Vidhance.Contrast">
-      <HintPath>..\packages\Imint.Vidhance.Contrast.2.8.0.3741\lib\net40\Imint.Vidhance.Contrast.dll</HintPath>
+    <Reference Include="Imint.Viewer.Control, Version=2.9.2.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\packages\Imint.Viewer.Control.2.9.2-CI00009\lib\net40\Imint.Viewer.Control.dll</HintPath>
     </Reference>
-    <Reference Include="Imint.Vidhance.Motion">
-      <HintPath>..\packages\Imint.Vidhance.Motion.2.8.0.3741\lib\net40\Imint.Vidhance.Motion.dll</HintPath>
+    <Reference Include="Imint.Viewer.OpenGL, Version=2.9.2.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\packages\Imint.Viewer.OpenGL.2.9.2-CI00009\lib\net40\Imint.Viewer.OpenGL.dll</HintPath>
     </Reference>
-    <Reference Include="Imint.Vidhance.Motion.Stabilize">
-      <HintPath>..\packages\Imint.Vidhance.Motion.Stabilize.2.8.0.3741\lib\net40\Imint.Vidhance.Motion.Stabilize.dll</HintPath>
+    <Reference Include="Imint.Viewer.Overlays, Version=2.9.2.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\packages\Imint.Viewer.Overlays.2.9.2-CI00009\lib\net40\Imint.Viewer.Overlays.dll</HintPath>
     </Reference>
-    <Reference Include="Imint.Vidhance.SkyUp">
-      <HintPath>..\packages\Imint.Vidhance.SkyUp.2.8.0.3741\lib\net40\Imint.Vidhance.SkyUp.dll</HintPath>
+    <Reference Include="Imint.Viewer.Video, Version=2.9.2.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\packages\Imint.Viewer.Video.2.9.2-CI00009\lib\net40\Imint.Viewer.Video.dll</HintPath>
     </Reference>
-    <Reference Include="Imint.Vidview">
-      <HintPath>..\packages\Imint.Vidview.2.8.0.3741\lib\net40\Imint.Vidview.dll</HintPath>
-    </Reference>
-    <Reference Include="Imint.Viewer">
-      <HintPath>..\packages\Imint.Viewer.2.8.0.3741\lib\net40\Imint.Viewer.dll</HintPath>
-    </Reference>
-    <Reference Include="Imint.Viewer.Control">
-      <HintPath>..\packages\Imint.Viewer.Control.2.8.0.3741\lib\net40\Imint.Viewer.Control.dll</HintPath>
-    </Reference>
-    <Reference Include="Imint.Viewer.OpenGL">
-      <HintPath>..\packages\Imint.Viewer.OpenGL.2.8.0.3741\lib\net40\Imint.Viewer.OpenGL.dll</HintPath>
-    </Reference>
-    <Reference Include="Imint.Viewer.Overlays">
-      <HintPath>..\packages\Imint.Viewer.Overlays.2.8.0.3741\lib\net40\Imint.Viewer.Overlays.dll</HintPath>
-    </Reference>
-    <Reference Include="Imint.Viewer.Video">
-      <HintPath>..\packages\Imint.Viewer.Video.2.8.0.3741\lib\net40\Imint.Viewer.Video.dll</HintPath>
-    </Reference>
-    <Reference Include="Kean.Cli">
-      <HintPath>..\packages\Kean.Cli.0.2.0.1045\lib\net40\Kean.Cli.dll</HintPath>
-    </Reference>
-    <Reference Include="Kean.Cli.Argument">
-      <HintPath>..\packages\Kean.Cli.Argument.0.2.0.1045\lib\net40\Kean.Cli.Argument.dll</HintPath>
-    </Reference>
-    <Reference Include="Kean.Core">
-      <HintPath>..\packages\Kean.Core.0.2.0.1045\lib\net40\Kean.Core.dll</HintPath>
-    </Reference>
-    <Reference Include="Kean.Core.Buffer">
-      <HintPath>..\packages\Kean.Core.Buffer.0.2.0.1045\lib\net40\Kean.Core.Buffer.dll</HintPath>
-    </Reference>
-    <Reference Include="Kean.Core.Collection">
-      <HintPath>..\packages\Kean.Core.Collection.0.2.0.1045\lib\net40\Kean.Core.Collection.dll</HintPath>
-    </Reference>
-    <Reference Include="Kean.Core.Error">
-      <HintPath>..\packages\Kean.Core.Error.0.2.0.1045\lib\net40\Kean.Core.Error.dll</HintPath>
-    </Reference>
-    <Reference Include="Kean.Core.Notify">
-      <HintPath>..\packages\Kean.Core.Notify.0.2.0.1045\lib\net40\Kean.Core.Notify.dll</HintPath>
-    </Reference>
-    <Reference Include="Kean.Core.Parallel">
-      <HintPath>..\packages\Kean.Core.Parallel.0.2.0.1045\lib\net40\Kean.Core.Parallel.dll</HintPath>
-    </Reference>
-    <Reference Include="Kean.Core.Recycle">
-      <HintPath>..\packages\Kean.Core.Recycle.0.2.0.1045\lib\net40\Kean.Core.Recycle.dll</HintPath>
-    </Reference>
-    <Reference Include="Kean.Core.Reflect">
-      <HintPath>..\packages\Kean.Core.Reflect.0.2.0.1045\lib\net40\Kean.Core.Reflect.dll</HintPath>
-    </Reference>
-    <Reference Include="Kean.Core.Serialize">
-      <HintPath>..\packages\Kean.Core.Serialize.0.2.0.1045\lib\net40\Kean.Core.Serialize.dll</HintPath>
-    </Reference>
-    <Reference Include="Kean.Core.Uri">
-      <HintPath>..\packages\Kean.Core.Uri.0.2.0.1045\lib\net40\Kean.Core.Uri.dll</HintPath>
-    </Reference>
-    <Reference Include="Kean.Draw">
-      <HintPath>..\packages\Kean.Draw.0.2.0.1045\lib\net40\Kean.Draw.dll</HintPath>
-    </Reference>
-    <Reference Include="Kean.Draw.Cairo">
-      <HintPath>..\packages\Kean.Draw.Cairo.0.2.0.1045\lib\net40\Kean.Draw.Cairo.dll</HintPath>
-    </Reference>
-    <Reference Include="Kean.Draw.OpenGL">
-      <HintPath>..\packages\Kean.Draw.OpenGL.0.2.0.1045\lib\net40\Kean.Draw.OpenGL.dll</HintPath>
-    </Reference>
-    <Reference Include="Kean.Draw.Raster">
-      <HintPath>..\packages\Kean.Draw.Raster.0.2.0.1045\lib\net40\Kean.Draw.Raster.dll</HintPath>
-    </Reference>
-    <Reference Include="Kean.IO">
-      <HintPath>..\packages\Kean.IO.0.2.0.1045\lib\net40\Kean.IO.dll</HintPath>
-    </Reference>
-    <Reference Include="Kean.IO.Net">
-      <HintPath>..\packages\Kean.IO.Net.0.2.0.1045\lib\net40\Kean.IO.Net.dll</HintPath>
-    </Reference>
-    <Reference Include="Kean.IO.Tap">
-      <HintPath>..\packages\Kean.IO.Tap.0.2.0.1045\lib\net40\Kean.IO.Tap.dll</HintPath>
-    </Reference>
-    <Reference Include="Kean.Math">
-      <HintPath>..\packages\Kean.Math.0.2.0.1045\lib\net40\Kean.Math.dll</HintPath>
-    </Reference>
-    <Reference Include="Kean.Math.Geometry2D">
-      <HintPath>..\packages\Kean.Math.Geometry2D.0.2.0.1045\lib\net40\Kean.Math.Geometry2D.dll</HintPath>
-    </Reference>
-    <Reference Include="Kean.Math.Geometry3D">
-      <HintPath>..\packages\Kean.Math.Geometry3D.0.2.0.1045\lib\net40\Kean.Math.Geometry3D.dll</HintPath>
-    </Reference>
-    <Reference Include="Kean.Math.Matrix">
-      <HintPath>..\packages\Kean.Math.Matrix.0.2.0.1045\lib\net40\Kean.Math.Matrix.dll</HintPath>
-    </Reference>
-    <Reference Include="Kean.Math.Random">
-      <HintPath>..\packages\Kean.Math.Random.0.2.0.1045\lib\net40\Kean.Math.Random.dll</HintPath>
-    </Reference>
-    <Reference Include="Kean.Math.Regression">
-      <HintPath>..\packages\Kean.Math.Regression.0.2.0.1045\lib\net40\Kean.Math.Regression.dll</HintPath>
-    </Reference>
-    <Reference Include="Kean.Platform">
-      <HintPath>..\packages\Kean.Platform.0.2.0.1045\lib\net40\Kean.Platform.dll</HintPath>
-    </Reference>
-    <Reference Include="Kean.Platform.Settings">
-      <HintPath>..\packages\Kean.Platform.Settings.0.2.0.1045\lib\net40\Kean.Platform.Settings.dll</HintPath>
-    </Reference>
-    <Reference Include="Kean.Xml">
-      <HintPath>..\packages\Kean.Xml.0.2.0.1045\lib\net40\Kean.Xml.dll</HintPath>
-    </Reference>
-    <Reference Include="Kean.Xml.Dom">
-      <HintPath>..\packages\Kean.Xml.Dom.0.2.0.1045\lib\net40\Kean.Xml.Dom.dll</HintPath>
-    </Reference>
-    <Reference Include="Kean.Xml.Sax">
-      <HintPath>..\packages\Kean.Xml.Sax.0.2.0.1045\lib\net40\Kean.Xml.Sax.dll</HintPath>
-    </Reference>
-    <Reference Include="Kean.Xml.Serialize">
-      <HintPath>..\packages\Kean.Xml.Serialize.0.2.0.1045\lib\net40\Kean.Xml.Serialize.dll</HintPath>
+    <Reference Include="Kean">
+      <HintPath>..\packages\Kean.2.9.2-CI00009\lib\net40\Kean.dll</HintPath>
     </Reference>
     <Reference Include="Mono.Cairo, Version=2.0.0.0, Culture=neutral, PublicKeyToken=0738eb9f132ed756, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
       <HintPath>..\packages\Cairo.2.0.0.1\lib\Mono.Cairo.dll</HintPath>
+    </Reference>
+    <Reference Include="nunit.framework">
+      <HintPath>..\packages\NUnit.2.6.3\lib\nunit.framework.dll</HintPath>
     </Reference>
     <Reference Include="OpenTK">
       <HintPath>..\packages\OpenTK.1.1.1161.61462\lib\NET40\OpenTK.dll</HintPath>
@@ -301,19 +220,33 @@
   <Import Project="..\packages\GLib.Sharp.2.28.1.1\build\GLib.Sharp.targets" Condition="Exists('..\packages\GLib.Sharp.2.28.1.1\build\GLib.Sharp.targets')" />
   <Import Project="..\packages\Cairo.2.0.0.1\build\Cairo.targets" Condition="Exists('..\packages\Cairo.2.0.0.1\build\Cairo.targets')" />
   <Import Project="..\packages\Pango.1.28.3.1\build\Pango.targets" Condition="Exists('..\packages\Pango.1.28.3.1\build\Pango.targets')" />
-  <Import Project="..\packages\Imint.Geo.Module.2.8.0.3741\build\Imint.Geo.Module.targets" Condition="Exists('..\packages\Imint.Geo.Module.2.8.0.3741\build\Imint.Geo.Module.targets')" />
-  <Import Project="..\packages\Imint.Improc.Match.Feature.2.8.0.3741\build\Imint.Improc.Match.Feature.targets" Condition="Exists('..\packages\Imint.Improc.Match.Feature.2.8.0.3741\build\Imint.Improc.Match.Feature.targets')" />
-  <Import Project="..\packages\Imint.Improc.Utility.2.8.0.3741\build\Imint.Improc.Utility.targets" Condition="Exists('..\packages\Imint.Improc.Utility.2.8.0.3741\build\Imint.Improc.Utility.targets')" />
-  <Import Project="..\packages\Imint.Media.Input.2.8.0.42\build\Imint.Media.Input.targets" Condition="Exists('..\packages\Imint.Media.Input.2.8.0.42\build\Imint.Media.Input.targets')" />
-  <Import Project="..\packages\Imint.Media.Test.2.8.0.24\build\Imint.Media.Test.targets" Condition="Exists('..\packages\Imint.Media.Test.2.8.0.24\build\Imint.Media.Test.targets')" />
-  <Import Project="..\packages\Imint.Vidflow.Snapshot.2.8.0.3741\build\Imint.Vidflow.Snapshot.targets" Condition="Exists('..\packages\Imint.Vidflow.Snapshot.2.8.0.3741\build\Imint.Vidflow.Snapshot.targets')" />
-  <Import Project="..\packages\Imint.Vidflow.Graph.2.8.0.3741\build\Imint.Vidflow.Graph.targets" Condition="Exists('..\packages\Imint.Vidflow.Graph.2.8.0.3741\build\Imint.Vidflow.Graph.targets')" />
-  <Import Project="..\packages\Imint.Vidhance.Contrast.2.8.0.3741\build\Imint.Vidhance.Contrast.targets" Condition="Exists('..\packages\Imint.Vidhance.Contrast.2.8.0.3741\build\Imint.Vidhance.Contrast.targets')" />
-  <Import Project="..\packages\Imint.Vidhance.Motion.2.8.0.3741\build\Imint.Vidhance.Motion.targets" Condition="Exists('..\packages\Imint.Vidhance.Motion.2.8.0.3741\build\Imint.Vidhance.Motion.targets')" />
-  <Import Project="..\packages\Imint.Viewer.2.8.0.3741\build\Imint.Viewer.targets" Condition="Exists('..\packages\Imint.Viewer.2.8.0.3741\build\Imint.Viewer.targets')" />
-  <Import Project="..\packages\Imint.Vidhance.Motion.Stabilize.2.8.0.3741\build\Imint.Vidhance.Motion.Stabilize.targets" Condition="Exists('..\packages\Imint.Vidhance.Motion.Stabilize.2.8.0.3741\build\Imint.Vidhance.Motion.Stabilize.targets')" />
-  <Import Project="..\packages\Imint.Vidhance.SkyUp.2.8.0.3741\build\Imint.Vidhance.SkyUp.targets" Condition="Exists('..\packages\Imint.Vidhance.SkyUp.2.8.0.3741\build\Imint.Vidhance.SkyUp.targets')" />
-  <Import Project="..\packages\Kean.Platform.Settings.0.2.0.1045\build\Kean.Platform.Settings.targets" Condition="Exists('..\packages\Kean.Platform.Settings.0.2.0.1045\build\Kean.Platform.Settings.targets')" />
+  <Import Project="..\packages\Kean.2.9.2-CI00009\build\Kean.targets" Condition="Exists('..\packages\Kean.2.9.2-CI00009\build\Kean.targets')" />
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>This project references NuGet package(s) that are missing on this computer. Enable NuGet Package Restore to download them.  For more information, see http://go.microsoft.com/fwlink/?LinkID=322105. The missing file is {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('..\packages\Kean.2.9.2-CI00009\build\Kean.targets')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\Kean.2.9.2-CI00009\build\Kean.targets'))" />
+    <Error Condition="!Exists('..\packages\Imint.Media.Test.2.9.2-CI00009\build\Imint.Media.Test.targets')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\Imint.Media.Test.2.9.2-CI00009\build\Imint.Media.Test.targets'))" />
+    <Error Condition="!Exists('..\packages\Imint.Media.Input.2.9.2-CI00009\build\Imint.Media.Input.targets')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\Imint.Media.Input.2.9.2-CI00009\build\Imint.Media.Input.targets'))" />
+    <Error Condition="!Exists('..\packages\Imint.Vidflow.Snapshot.2.9.2-CI00009\build\Imint.Vidflow.Snapshot.targets')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\Imint.Vidflow.Snapshot.2.9.2-CI00009\build\Imint.Vidflow.Snapshot.targets'))" />
+    <Error Condition="!Exists('..\packages\Imint.Vidflow.Graph.2.9.2-CI00009\build\Imint.Vidflow.Graph.targets')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\Imint.Vidflow.Graph.2.9.2-CI00009\build\Imint.Vidflow.Graph.targets'))" />
+    <Error Condition="!Exists('..\packages\Imint.Vidhance.Contrast.2.9.2-CI00009\build\Imint.Vidhance.Contrast.targets')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\Imint.Vidhance.Contrast.2.9.2-CI00009\build\Imint.Vidhance.Contrast.targets'))" />
+    <Error Condition="!Exists('..\packages\Imint.Viewer.2.9.2-CI00009\build\Imint.Viewer.targets')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\Imint.Viewer.2.9.2-CI00009\build\Imint.Viewer.targets'))" />
+    <Error Condition="!Exists('..\packages\Imint.Vidview.2.9.2-CI00009\build\Imint.Vidview.targets')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\Imint.Vidview.2.9.2-CI00009\build\Imint.Vidview.targets'))" />
+    <Error Condition="!Exists('..\packages\Imint.Vidhance.Motion.Backend.1.0.0.0\build\Imint.Vidhance.Motion.Backend.targets')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\Imint.Vidhance.Motion.Backend.1.0.0.0\build\Imint.Vidhance.Motion.Backend.targets'))" />
+    <Error Condition="!Exists('..\packages\Imint.Vidhance.Motion.2.9.2-CI00009\build\Imint.Vidhance.Motion.targets')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\Imint.Vidhance.Motion.2.9.2-CI00009\build\Imint.Vidhance.Motion.targets'))" />
+    <Error Condition="!Exists('..\packages\Imint.Vidhance.Motion.Stabilize.2.9.2-CI00009\build\Imint.Vidhance.Motion.Stabilize.targets')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\Imint.Vidhance.Motion.Stabilize.2.9.2-CI00009\build\Imint.Vidhance.Motion.Stabilize.targets'))" />
+  </Target>
+  <Import Project="..\packages\Imint.Media.Test.2.9.2-CI00009\build\Imint.Media.Test.targets" Condition="Exists('..\packages\Imint.Media.Test.2.9.2-CI00009\build\Imint.Media.Test.targets')" />
+  <Import Project="..\packages\Imint.Media.Input.2.9.2-CI00009\build\Imint.Media.Input.targets" Condition="Exists('..\packages\Imint.Media.Input.2.9.2-CI00009\build\Imint.Media.Input.targets')" />
+  <Import Project="..\packages\Imint.Vidflow.Snapshot.2.9.2-CI00009\build\Imint.Vidflow.Snapshot.targets" Condition="Exists('..\packages\Imint.Vidflow.Snapshot.2.9.2-CI00009\build\Imint.Vidflow.Snapshot.targets')" />
+  <Import Project="..\packages\Imint.Vidflow.Graph.2.9.2-CI00009\build\Imint.Vidflow.Graph.targets" Condition="Exists('..\packages\Imint.Vidflow.Graph.2.9.2-CI00009\build\Imint.Vidflow.Graph.targets')" />
+  <Import Project="..\packages\Imint.Vidhance.Contrast.2.9.2-CI00009\build\Imint.Vidhance.Contrast.targets" Condition="Exists('..\packages\Imint.Vidhance.Contrast.2.9.2-CI00009\build\Imint.Vidhance.Contrast.targets')" />
+  <Import Project="..\packages\Imint.Viewer.2.9.2-CI00009\build\Imint.Viewer.targets" Condition="Exists('..\packages\Imint.Viewer.2.9.2-CI00009\build\Imint.Viewer.targets')" />
+  <Import Project="..\packages\Imint.Vidview.2.9.2-CI00009\build\Imint.Vidview.targets" Condition="Exists('..\packages\Imint.Vidview.2.9.2-CI00009\build\Imint.Vidview.targets')" />
+  <Import Project="..\packages\Imint.Vidhance.Motion.Backend.1.0.0.0\build\Imint.Vidhance.Motion.Backend.targets" Condition="Exists('..\packages\Imint.Vidhance.Motion.Backend.1.0.0.0\build\Imint.Vidhance.Motion.Backend.targets')" />
+  <Import Project="..\packages\Imint.Vidhance.Motion.2.9.2-CI00009\build\Imint.Vidhance.Motion.targets" Condition="Exists('..\packages\Imint.Vidhance.Motion.2.9.2-CI00009\build\Imint.Vidhance.Motion.targets')" />
+  <Import Project="..\packages\Imint.Vidhance.Motion.Stabilize.2.9.2-CI00009\build\Imint.Vidhance.Motion.Stabilize.targets" Condition="Exists('..\packages\Imint.Vidhance.Motion.Stabilize.2.9.2-CI00009\build\Imint.Vidhance.Motion.Stabilize.targets')" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.
   <Target Name="BeforeBuild">
