@@ -13,17 +13,8 @@ Right-click in Explorer and select "SVN Checkout". Enter the URL https://github.
 
 Getting started (Visual Studio 2012 Express):
 -------------------------------------
-1. Open the solution file.
-2. Make sure the NuGet extension is up to date (Tools -> Extensions and updates).
+1. Follow the [Vidview .NET SDK Getting Started Guide](https://aurora.imint.se/help/vidview/sdk/.net/Vidview%20.NET%20SDK%20Getting%20Started%20Guide.html) until you have added a local package source. 
+2. Open the solution file.
 3. Right click the solution in the Solution Explorer and select "Enable NuGet Package Restore".
-4. Exit Visual Studio.
-5. Run "addsource.bat" in the .nuget folder. This will prompt you for your MyGet username and password.
-6. If the build fails later on, you may have provided the wrong credentials earlier, in which case go back to step 5.
-7. Open the solution file again and build. The packages will automatically be installed, as part of the build process.
-8. Run the application.
-
-If you wish to install the packages from a local or network location (suitable for corporate environments) you may replace step 5 and 6 above with:
-
-1. Go to http://www.myget.org/Zip/Feed/vidview-dev, sign in, and download the zip file.
-2. Unpack the zip file somewhere convenient.
-3. Follow the instructions at http://docs.nuget.org/docs/start-here/managing-nuget-packages-using-the-dialog#Package_Sources to add your local or network location (the "packages" folder you just unzipped) as a package source.
+4. Build the application. The packages will automatically be installed, as part of the build process.
+5. Run the application.

@@ -3,8 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{509BAE1D-E973-418D-8E7A-A9A7626E8605}"
 	ProjectSection(SolutionItems) = preProject
-		.nuget\addsource.bat = .nuget\addsource.bat
-		.nuget\addsource.ps1 = .nuget\addsource.ps1
 		.nuget\NuGet.Config = .nuget\NuGet.Config
 		.nuget\NuGet.exe = .nuget\NuGet.exe
 		.nuget\NuGet.targets = .nuget\NuGet.targets

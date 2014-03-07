@@ -1,1 +1,0 @@
-powershell -ExecutionPolicy ByPass -File addsource.ps1
